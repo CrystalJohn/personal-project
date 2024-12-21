@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 2rem;
+    border: 5px solid black;
+}
+h3{
+    color: #60B570;
+}
+#half-line{
+    border: 2px solid black;
+    width: 70%;
+}
+.project p{
+    color: #1F75C4;
+}
